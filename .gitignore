@@ -1,0 +1,21 @@
+# Dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+**/.next/
+
+# Environment files
+**/.env
+
+# Uploads
+backend/uploads/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
